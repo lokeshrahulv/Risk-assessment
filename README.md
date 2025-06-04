@@ -1,5 +1,5 @@
 # Risk Assessment
-### NAME: Lokesh Rahul V VSS
+### NAME: Lokesh Rahul V V
 ### REG NO:212222100024
 ## Aim
 To perform an asset-oriented risk assessment of cloud storage assets including:
